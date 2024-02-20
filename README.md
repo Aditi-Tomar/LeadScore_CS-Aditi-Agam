@@ -32,24 +32,3 @@ X Education, an online education company, faces challenges with its lead convers
 14.Precision-Recall
 
 By following these steps, X Education can develop a robust lead scoring system that helps prioritize leads with the highest conversion potential, ultimately improving the efficiency of their sales process.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Languages
-Jupyter Notebook
-100.0%
-Footer
