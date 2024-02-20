@@ -1,8 +1,8 @@
 # LeadScore_CS-Aditi-Agam
-Problem Statement:
+# Problem Statement:
 X Education, an online education company, faces challenges with its lead conversion process despite generating numerous leads daily. With a typical lead conversion rate of only 30%, they aim to boost efficiency by identifying the most promising leads, termed 'Hot Leads', to focus their sales efforts effectively.Their lead conversion process resembles a funnel, where many leads enter but only a few become paying customers. Effective nurturing of potential leads in the middle stage is crucial for higher conversion rates.To address this issue, X Education seeks assistance in developing a lead scoring model. This model should assign a lead score to each lead, indicating their likelihood of converting into paying customers. The objective is to prioritize leads with higher scores for focused sales efforts, aiming to achieve a target lead conversion rate of 80%. In summary, X Education desires a model that can accurately predict lead conversion probabilities, facilitating targeted sales strategies and improving overall conversion rates.
 
-To build a lead scoring model for X Education, one can follow these steps:
+# To build a lead scoring model for X Education, one can follow these steps:
 1.Data Loading
 
 2.Data Exploration (EDA)
